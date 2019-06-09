@@ -10,6 +10,7 @@ That is, by using the methods such as tfidf, extract some key feature words in e
 Based on the words and scores, in each input (this is a past exam question),  predict the chapter in the textbook which is the most relevant to the input.
 
 (3)ccg2lambda
+
 This is the attempt to get a meaning of a sentence, using semantic templates and given CCG syntax trees.
 You can see the details from the links below.
 
